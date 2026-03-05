@@ -7,22 +7,22 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. Th
 To run this project locally, you will need Python installed on your machine. Follow these steps to set up the environment:
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/rohitN04/Titanic-Survival.git
-   cd Titanic-Survival
-   ```
+```bash
+git clone https://github.com/rohitN04/Titanic-Survival.git
+cd Titanic-Survival
+```
 
 2. **Install the required dependencies:
 It is recommended to use a virtual environment. Install the packages using the provided requirements.txt file:
-  ```bash
-  pip install -r requirements.txt
-  ```
+```bash
+pip install -r requirements.txt
+```
 
 3. **Run the Notebook:
 Open the Jupyter Notebook to view the code, visualizations, and model training process:
-  ```bash
-  jupyter notebook Titanic_Project.ipynb
-  ```
+```bash
+jupyter notebook Titanic_Project.ipynb
+```
 
 ## Dataset Overview
 The dataset used is the classic Kaggle Titanic dataset. 
