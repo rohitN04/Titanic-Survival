@@ -8,8 +8,8 @@ To run this project locally, you will need Python installed on your machine. Fol
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git)
-   cd YOUR-REPOSITORY-NAME
+   git clone https://github.com/rohitN04/Titanic-Survival.git
+   cd Titanic-Survival
    ```
 
 2. **Install the required dependencies:
