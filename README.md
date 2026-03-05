@@ -3,6 +3,27 @@
 ## Problem Statement
 The sinking of the Titanic is one of the most infamous shipwrecks in history. The objective of this project is to build a predictive machine learning model to determine what sorts of people were more likely to survive. By analyzing historical passenger data (such as age, gender, and ticket class), this project demonstrates a complete, end-to-end machine learning classification pipeline.
 
+## Installation & Setup
+To run this project locally, you will need Python installed on your machine. Follow these steps to set up the environment:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git)
+   cd YOUR-REPOSITORY-NAME
+   ```
+
+2. **Install the required dependencies:
+It is recommended to use a virtual environment. Install the packages using the provided requirements.txt file:
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+3. **Run the Notebook:
+Open the Jupyter Notebook to view the code, visualizations, and model training process:
+  ```bash
+  jupyter notebook Titanic_Project.ipynb
+  ```
+
 ## Dataset Overview
 The dataset used is the classic Kaggle Titanic dataset. 
 * **Total Features:** 11 original columns (PassengerId, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked).
