@@ -81,7 +81,7 @@ All models tuned with **GridSearchCV** (5-fold cross-validation).
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/titanic-survival-prediction.git
+git clone https://github.com/rohitN04/Titanic-Survival.git
 cd titanic-survival-prediction
 
 # 2. Install dependencies
