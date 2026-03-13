@@ -64,7 +64,7 @@ PassengerId,Survived
 726,No
 376,Yes
 813,No
-648,No
+648,Yes
 597,Yes
 439,No
 200,Yes
@@ -137,7 +137,7 @@ PassengerId,Survived
 166,Yes
 837,No
 276,Yes
-66,Yes
+66,No
 656,No
 336,No
 104,No
@@ -227,7 +227,7 @@ PassengerId,Survived
 247,Yes
 329,Yes
 870,Yes
-424,Yes
+424,No
 836,Yes
 816,No
 431,No
@@ -354,5 +354,5 @@ PassengerId,Survived
 175,No
 298,Yes
 245,No
-39,Yes
+39,No
 372,No
