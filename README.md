@@ -72,8 +72,8 @@ python -m src.predict --model src/model.pkl --input new_data.csv --output predic
 
 | Model | Test Accuracy | F1-Score | ROC-AUC | 10-Fold CV |
 |-------|:---:|:---:|:---:|:---:|
-| Logistic Regression | 0.8301 | 0.8030 | 0.8809 | 0.8175 ± 0.0395 |
 | Decision Tree | 0.7821 | 0.6829 | 0.8373 | 0.8217 ± 0.0399 |
+| Logistic Regression | 0.8301 | 0.8030 | 0.8809 | 0.8175 ± 0.0395 |
 | Random Forest | 0.8212 | 0.7576 | 0.8377 | 0.8274 ± 0.0476 |
 
 ## Limitations
